@@ -1,0 +1,2564 @@
+.. vim: syntax=rst
+
+   ..
+   image:: media\Hazelm002.25625in
+
+   **SAFETY PLAN**
+
+   3MWe WOOD WASTE TO ENERGY PLANT
+
+   **T1555 HAZELMERE WWTE PLANT**
+
+   EASTERN METROPOLITAN REGIONAL COUNCIL
+
+.. list-table::
+   :widths: 20 20 20 20 20
+   :header-rows: 0
+
+
+   * -
+     - ** Date**
+     - **Description**
+     - **By**
+     -
+
+   * - **1**
+     - 05/0 9/2018
+     - Reviewed Plan for Issue
+     - AD
+     -
+
+   * - **1-01**
+     - 22/1 1/2018
+     - Reviewed Plan for Issue
+     - JC
+     -
+
+   * - **2**
+     - 12/0 2/2019
+     - Major Revision and Update
+     - JC
+     -
+
+   * - **2-01**
+     - 13/0 3/2019
+     - Issued for Client Approval
+     - DF
+     -
+
+   * - **2-02**
+     - 02/0 4/2019
+     - Issued for Client Approval
+     - JC
+     -
+
+   * - **2-03**
+     - 12/0 5/2019
+     - Issued for Use
+     - AD
+     -
+
+   * - **2-04**
+     - 27/1 1/2019
+     - Reviewed Plan for Use
+     - MC
+     -
+
+   * - **3**
+     - 29/0 6/2020
+     - Reviewed & Updated
+     - CP
+     -
+
+   * - **3-01**
+     - 30/0 7/2020
+     - Added EMRC WWTE Traffic Management Plan
+     - CP
+     -
+
+   * - **3-02**
+     - 01/0 8/2020
+     - Incorporated COVID-19 Risk Management Requirements
+     - CP
+     -
+
+   * - **3-03**
+     - 01/0 2/2021
+     - Update Response to COVID-19 outbreak
+     - MC
+     -
+
+
+..
+
+   T1555-2-60
+
+   **Anergy Australia Pty Ltd \|** Lot 2 Estuary Drive \| Bunbury \| Western Australia 6230 `www.anergy.com <http://www.anergy.com/>`__
+
+   THIS PAGE IS LEFT INTENTIONALLY BLANK
+
+   **REVISION HISTORY & NOTES**
+
+.. list-table::
+   :widths: 16 16 16 16 16 16
+   :header-rows: 0
+
+
+   * - **Rev.**
+     - ** Date**
+     - **Description**
+     -
+     -
+     - **Notes**
+
+   * - A
+     - 15/1 2/2015
+     - Preliminary Issue
+     -
+     -
+     - -
+
+   * - B
+     - 07/0 1/2016
+     - General Revision
+     -
+     -
+     - -
+
+   * - C
+     - 18/1 2/2016
+     - Updated for Client Comments
+     -
+     -
+     - Contains updates and has also been adapted for client comments.
+
+   * - 0
+     - 20/0 4/2016
+     - Approved for Use
+     -
+     -
+     - -
+
+   * - 0-01
+     - 10/0 7/2018
+     - Reviewed Plan for Issue
+     -
+     -
+     - -
+
+   * - 1
+     - 05/0 9/2018
+     - Reviewed Plan for Issue
+     -
+     -
+     - General revision prior to recommencement of major construction activities.
+
+   * - 1-01
+     - 22/1 1/2018
+     - Reviewed Plan for Issue
+     -
+     -
+     - General revision during construction activities.
+
+   * - 2
+     - 12/0 2/2019
+     - Major Revision and Update
+     -
+     -
+     - Major revision and update, to implement significant improvements to safety management processes on site.
+
+   * -
+     -
+     -
+     -
+     -
+     - At this revision, the following sections were in review, for update in subsequent issues:
+
+
+-  Section 3 – Planning and Management
+
+-  Section 4 – Roles and Responsibilities
+
+-  Section 5.2 – Site Inductions
+
+-  Section 7 Training
+
+-  Section 9 – Site Rules
+
+.. list-table::
+   :widths: 16 16 16 16 16 16
+   :header-rows: 0
+
+
+   * - 2-01
+     - 13/0 3/2019
+     - Issued for Client Approval
+     -
+     -
+     - -
+
+   * - 2-02
+     - 02/0 4/2019
+     - Issued for Client Approval
+     -
+     -
+     - -
+
+   * - 2-03
+     - 12/0 5/2019
+     - Issued for Site Use
+     -
+     -
+     - No further revision to Rev 2-02
+
+   * - 2-04
+     - 27/1 1/2019
+     - Reviewed and Issued for Use
+     -
+     -
+     - Removed Site Safety coordinator and Site Supervisors
+
+   * - 3
+     - 29/0 6/2020
+     - Reviewed against ERMC SMP
+     -
+     -
+     - -  General Update of document
+
+       -  Emergency response access and Evacuation points detailed
+
+   * - 3-01
+     - 30/0 7/2020
+     - Incorporated EMRC WWTE Traffic Management Plan
+     -
+     -
+     -
+
+   * - 3-02
+     - 01/0 8/2020
+     - Add COVID-19 Risk Management Requirement
+     -
+     -
+     -
+
+   * - 3-03
+     - 01/0 2/2021
+     - Update COVID-19 Risk Management
+     -
+     -
+     - Updated link to new guidelines, plans and health dep.
+       Directives
+
+
+..
+
+   THIS PAGE IS LEFT INTENTIONALLY BLANK
+
+   **OUR HEALTH AND SAFETY POLICY**
+
+   *We are committed to the health and safety of all visitors and workers at the Hazelmere Project site, be they employees, contractors or other
+   stakeholders.
+   We believe that not only do we have a duty of care to provide a safe workplace, safe equipment and safe systems of work, but that effective Safety
+   Management is core to our ability to deliver Projects with quality and efficiency.*
+
+   *We achieve this by:*
+
+-  *Complying with, if not exceeding, statutory requirements, codes, standards and guidelines for construction in Western Australia.*
+
+-  *Actively managing risk through identifying, assessing and controlling hazards for all activities.*
+
+-  *Setting objectives and targets with the aim of achieving zero harm.*
+
+-  *Enabling a culture of positive and active contribution to safety by all Our strategies include:*
+
+-  *Applying active risk management principles for all activities.*
+
+-  *Clearly defining roles and responsibilities.*
+
+-  *Effective consultation with all workers and stakeholders.*
+
+-  *Fostering participation by all workers and stakeholders.*
+
+-  *Providing education and training to all our employees.*
+
+-  *Ensuring incidents are investigated and lessons are learnt; and*
+
+-  *Applying our core company values in safety matters:*
+
+   -  Integrity *- seeking honesty and respect*
+
+   -  Performance *- looking to better ourselves*
+
+   -  Openness *- being open and accountable*
+
+   -  Determination *- persisting to find better*
+
+..
+
+   *Finally, safety is everyone’s concern.
+   You have the right and responsibility to question, pause and reflect on any actions that may affect the safety in your workplace.*
+
+   **Matthew Martella**
+
+   *Director*
+
+   THIS PAGE IS LEFT INTENTIONALLY BLANK
+
+   **CONTENTS**
+
+1. `INTRODUCTION 11 <#introduction>`__
+
+   1. `PROJECT QUICK FACTS 11 <#project-quick-facts>`__
+
+   2. `SITE PLAN & TRAFFIC MANAGEMENT 12 <#site-plan-traffic-management>`__
+
+2. **GENERAL INFORMATION 14**
+
+   1. POLICY REVIEW AND ACCESS 14
+
+   2. RELEVANT LEGISLATION AND REGULATIONS 14
+
+   3. RELEVANT AUSTRALIAN & INTERNATIONAL STANDARDS 14
+
+   4. CODES OF PRACTICE 15
+
+..
+
+   `Worksafe WA 15 <#worksafe-wa>`__
+
+   `ASCC 16 <#section>`__
+
+5. HEALTH 16
+
+3. **PLANNING & MANAGEMENT 17**
+
+   1. OBJECTIVES AND TARGETS 17
+
+   2. PERFORMANCE INDICATION 18
+
+4. **ROLES AND RESPONSIBILITIES 20**
+
+   1. ORGANISATION CHART 20
+
+   2. SHARED RESPONSIBILITIES 20
+
+   3. KEY RESPONSIBILITIES 21
+
+..
+
+   `Anergy Senior Management 21 <#anergy-senior-management>`__
+
+   `Project Manager 21 <#project-manager>`__
+
+   `Site Manager 21 <#_z337ya>`__
+
+   `Subcontractors 22 <#subcontractors>`__
+
+   `Workers 22 <#workers>`__
+
+4. OTHER RESPONSIBILITIES 22
+
+..
+
+   `EMRC Hazelmere Site Manager 22 <#emrc-hazelmere-site-manager>`__
+
+5. **CONSULTATION AND REPORTING 23**
+
+   1.  GENERAL INFORMATION 23
+
+   2.  SITE INDUCTION 24
+
+   3.  PRE-START MEETINGS 24
+
+   4.  TOOLBOX MEETINGS 25
+
+   5.  ON-SITE SAFETY WORKSHOPS 25
+
+   6.  WORKPLACE INSPECTIONS 25
+
+   7.  SAFETY PLAN ACTION REGISTER (SPAR) 26
+
+   8.  INCIDENT MANAGEMENT 27
+
+   9.  WORKPLACE SAFETY AUDIT 28
+
+   10.
+   ISSUE RESOLUTION 29
+
+   11.
+   SAFETY KPI REPORTING 29
+
+6. **RISK MANAGEMENT 30**
+
+   1. OVERVIEW 30
+
+   2. RISK ASSESSMENT PRINCIPLES 30
+
+..
+
+   `Risk Matrix 31 <#risk-matrix>`__
+
+   `Mitigating Risk 32 <#mitigating-risk>`__
+
+   `Residual Risk 32 <#residual-risk>`__
+
+3. HAZARD IDENTIFICATION & SITE RISK REGISTER (SRR) 33
+
+4. RISK ASSESSMENT TOOLS 34
+
+5. SAFE WORK METHOD STATEMENTS (SWMS) 35
+
+6. JOB HAZARD ANALYSIS (JHA) 35
+
+7. TAKE 5 RISK ASSESSMENT (T5RA) 36
+
+7. **TRAINING 37**
+
+   1. TRAINING MATRIX 37
+
+   2. CONSTRUCTION INDUCTION TRAINING 38
+
+   3. SITE SPECIFIC INDUCTIONS 38
+
+   4. WORK-SPECIFIC TRAINING REQUIREMENTS 38
+
+8. **INJURIES AND RECOVERY 39**
+
+   1. INJURIES AND RECOVERY 39
+
+9. **SITE RULES 40**
+
+   1.  SITE OPERATING HOURS 40
+
+   2.  SITE ENTRY / VISITORS 40
+
+   3.  PERSONAL PROTECTION EQUIPMENT 41
+
+   4.  SPECIAL NEEDS 41
+
+   5.  SAFETY EQUIPMENT 41
+
+   6.  USE OF LADDERS 42
+
+   7.  USE OF ELEVATED WORK PLATFORMS 42
+
+   8.  POWER TOOLS 43
+
+   9.  EMERGENCIES AND EVACUATION 43
+
+   10.
+   SMOKING 44
+
+   11.
+   FIRST AID 44
+
+   12.
+   SECURITY 44
+
+   13.
+   HARASSMENT, BULLYING AND WORKPLACE VIOLENCE 45
+
+   14.
+   DRUGS AND ALCOHOL 45
+
+   15.
+   FIRE 45
+
+   16.
+   DANGEROUS GOODS AND HAZARDOUS SUBSTANCES 46
+
+   17.
+   COLD WORK 46
+
+   18.
+   HOT WORK 46
+
+   19.
+   CONFINED SPACE ENTRY 47
+
+   20.
+   SAFE WORK METHOD STATEMENTS (SWMS) 48
+
+   21.
+   ELECTRICAL EQUIPMENT 49
+
+   22.
+   VEHICLES 49
+
+   23.
+   ANIMALS 49
+
+   24.
+   HEAT AND RAIN 49
+
+   25.
+   FATIGUE 50
+
+   26.
+   MANUAL HANDLING 50
+
+   27.
+   STORES AND LAYDOWN 50
+
+   28.
+   HYGIENE 50
+
+   29.
+   WASTE 51
+
+   30.
+   PLANT AND EQUIPMENT 51
+
+   31.
+   OUT OF SERVICE PROCEDURE 52
+
+   32.
+   WORKING IN ISOLATION 52
+
+INTRODUCTION
+============
+
+   Health and Safety for the construction of the 3MWe Wood Waste to Energy plant at Hazelmere is paramount for a successful project.
+   The purpose of this document is to provide all workers and visitors to the Project throughout the construction phase understanding and information
+   regarding the practical plan put in place by Anergy to achieve this.
+   It details the health and safety management system which shall be implemented and enforced for this phase.
+
+PROJECT QUICK FACTS
+-------------------
+
+   Location 77 Lakes Rd Hazelmere
+
+   Site Owner Eastern Metropolitan Regional Council (EMRC) Principal Contractor Anergy Australia Pty Ltd (Anergy)
+
+   Construction Start January 2016 Construction Completion January 2020 Workforce 3 - 20 persons
+
+   Site Area Embedded 70m x 40m area on EMRC’s Hazelmere Site
+
+SITE PLAN & TRAFFIC MANAGEMENT
+------------------------------
+
+.. image:: media\Hazelm003.jpg
+   :width: 5.63386in
+   :height: 9.16535in
+
+*General Project Area Layout*
+
+*EMRC WWTE Traffic Management & Emergency Evacuation Plan*
+
+.. image:: media\Hazelm004.png
+   :width: 6.63542in
+   :height: 7.75in
+
+The security of the Hazelmere Resource Recovery Park (HRRP) against unauthorized entry by public or commercial entities to any of the operational
+areas is imperative and must be maintained at all times.
+
+-  The main Commercial entrance gates shall be closed outside the hours of 7:00am to 3:00pm Monday to Friday,
+
+-  The Wood Waste to Energy (WWTE) gates are to remain CLOSED at all times unless accessing the site.
+
+-  The Commercial entrance gates, when CLOSED, and the WWTE gates shall NOT be left OPEN unless a Contractor representative remains in attendance to
+  prevent unauthorized access to either the HRRP or the WWTE site,
+
+-  Persons accessing a CLOSED gate shall traverse the gate when open and wait on the other side until the gate has fully closed ensuring no unauthorized
+  access to either the HRRP or the WWTE site,
+
+-  Contractor does not have access authority to Hazelmere Resource Recovery Park (HRRP) except for emergency access to the Alternate Emergency Exit,
+
+-  Heavy vehicle access to the WWTE site that require access via HRRP operational area shall require prior approval by the HRRP Manager before attending
+  site,
+
+-  Heavy vehicles are not permitted to park on Lakes Road for any reason.
+  (City of Swan By-Law)
+
+-  Vehicles attending the WWTE site including heavy vehicles are not permitted to park or lay up on the main commercial entrance road
+
+-  In an emergency event outside of HRRP operating hours where egress from the HHRP, or access for emergency vehicles cannot be made through the main
+  commercial entrance gates, Contractor can access the site through the Alternate Emergency Exit (cutting the lock if required).
+
+-  In the event that the site cannot be left secure, or unauthorized persons are observed entering the site, the Contractor is to immediately notify
+  **EMRC** to arrange security services to attend and secure the site.
+  **EMRC** are to be contacted in the following order of escalation:
+
+.. list-table::
+   :widths: 33 33 33
+   :header-rows: 0
+
+
+   * - **WWTEManager/Superintendent**
+     - **0438993932**
+     - **Steve Saunders**
+
+   * - **OSH Coordinator**
+     - **0404183912**
+     - **Jonathan Park**
+
+   * - **WWTEManager/Superintendent**
+     - **0427965949**
+     - **Brad Lacey**
+
+   * - **Chief Projects Officer**
+     - **0400413415**
+     - **Douglas Bruce**
+
+
+.
+
+2. ..
+   rubric:: GENERAL INFORMATION :name: general-information
+
+   1. ..
+      rubric:: POLICY REVIEW AND ACCESS :name: policy-review-and-access
+
+..
+
+   The HSE Policy and Safety Plan documentation is reviewed at least every 12 months by Anergy’s senior management team.
+   A signed copy by the company’s Chief Operating Officer (COO) shall be displayed on the safety notice board and in the construction office on site.
+   Any and all changes shall be communicated to all employees, any affected contractors, and other stakeholders to the organisation.
+
+   This plan shall be distributed to all inducted workers at the Hazelmere site.
+   Further copies shall be available from the Site Office.
+
+RELEVANT LEGISLATION AND REGULATIONS
+------------------------------------
+
+   At the time of the implementation of this plan, the following legislation and regulations were in place.
+   Whilst it is unlikely that the legislation or regulations shall change over the period in which the plan is implemented, Anergy shall continuously
+   monitor and if need be updated and communicate these updates of this plan.
+
+   Copies of all relevant legislation, regulation and Standards shall be accessible from the site construction office.
+
+-  Occupational Safety and Health Act 1984
+
+-  Occupational Safety and Health Regulations 1996
+
+-  Workers’ Compensation and Injury Management Act 1987
+
+-  Workers’ Compensation and Injury Management Regulations 1992
+
+-  Electricity Act 1945
+
+-  Electricity Regulations 1947
+
+RELEVANT AUSTRALIAN STANDARDS
+-----------------------------
+
+-  AS1657 Fixed Platforms, Walkways, Stairways and Ladders - Design Construction and Installation
+
+-  AS1418 Parts 1-20: Cranes, Hoists and Winches
+
+-  AS2550 Parts 1-19: Cranes, Hoists and Winches - Safe Use
+
+-  AS1891 Parts 1-4: Industrial fall arrest systems
+
+-  AS1666 Part 2: Steel wire rope - use, operation and maintenance
+
+-  AS3775 Parts 1-2: Chain slings for lifting purposes
+
+-  AS3776 Lifting components for Grade T (80) and V (100) chain slings
+
+-  AS4801 Occupational Health and Safety Systems.
+
+-  AS2759 Steel Wire Rope – Use, Operation & Maintenance.
+
+-  AS3775 Part 2: Chain Slings – Grade T – Care and Use.
+
+-  AS4497 Part 2: Roundslings – Synthetic Fibre – Care and Use.
+
+-  AS1674 All Parts: Safety in Welding and Allied Processes.
+
+-  AS4839 The Safe Use of Portable and Mobile Oxy-fuel Gas Systems for Welding, Cutting, heating and Allied Processes.
+
+-  AS4332 The Storage and Handling of Gases in Cylinders.
+
+-  AS4603 Flashback Arrestors – Safety Devices for Use with Fuel Gases and Oxygen or Compressed Air.
+
+-  AS2436 Guide to Noise Control- Construction, Maintenance, Demolition Sites.
+
+-  AS1576 Scaffolding.
+
+-  AS1577 Scaffold Planks.
+
+-  AS4576 Guidelines for Scaffolding.
+
+-  AS1509 Rules for Design and Construction of Formwork.
+
+-  AS3610 Formwork for Concrete.
+
+-  AS2865 Safe Working in a Confined Space.
+
+-  AS1319 Safety Signs for the Occupational Environment.
+
+-  AS1743 Road Signs – Specifications.
+
+-  AS1742 All Parts: Manual of Uniform Traffic Control Devices.
+
+-  AS4024 Safety of Machinery.
+
+-  AS1337 Eye Protectors for Industrial Applications.
+
+-  AS1892 Part 1: Portable Ladders.
+
+-  AS1715 Selection, Use and Maintenance of Respiratory Protective Devices.
+
+-  AS1716 Respiratory Protective Devices.
+
+-  AS1269 (All parts) Occupational Noise Management.
+
+-  AS3012 Electrical Installations – Construction and Demolition Sites.
+
+-  AS3000 Electrical Wiring Rules.
+
+-  AS2790 Electricity Generating Sets – Transportable.
+
+-  AS3010 Electrical Installations – Generating Sets.
+
+-  AS3017 Electrical Installations – Testing & Inspection Guidelines.
+
+-  AS4836 Safe Working on Low Voltage Electrical Installations.
+
+-  AS3760 In-Service Safety Inspection & Testing of Electrical Equipment.
+
+-  AS2294 Roll Over Protection
+
+-  AS1873 Part 1: Powder - actuated (PA) Handheld Fastening Tools - Selection, Operation & Maintenance
+
+-  AS4380 Procedures for the Collection, Detection and Quantitation of Drugs of Abuse in Urine.
+
+-  AS5601 Gas Installations - General.
+
+-  AS3814 Industrial and Commercial Gas Fired Appliances
+
+-  AS3500 All Parts: Plumbing and Drainage
+
+   1. ..
+      rubric:: CODES OF PRACTICE :name: codes-of-practice
+
+Worksafe WA
+~~~~~~~~~~~
+
+-  Control of Workplace Hazardous Substances [NOHSC:2007(1994)] - Safe Work Australia
+
+-  Excavation
+
+-  First Aid Facilities and Services; Workplace Amenities and Facilities; and Personal Protective Clothing and Equipment
+
+-  Health and safety in welding-Tech note 7 - Welding Technology Institute of Australia
+
+-  Manual tasks
+
+-  Safe design of buildings and structures
+
+-  Prevention of Falls at Workplaces Managing noise at workplaces
+
+-  Safeguarding of machinery and plant
+
+-  First aid-workplace amenities-personal protective clothing
+
+-  Fatigue Management for Commercial Vehicle Drivers
+
+-  Working Hours
+
+-  Violence aggression and bullying at work
+
+.. _section-1:
+
+Safe Work Australia
+~~~~~~~~~~~~~~~~~~~
+
+-  National Standard for Plant
+
+3. ..
+   rubric:: PLANNING & MANAGEMENT :name: planning-management
+
+   1. ..
+      rubric:: OBJECTIVES AND TARGETS :name: objectives-and-targets
+
+..
+
+   This safety plan was established in accordance with the following objectives.
+
+-  Provide a safe working environment for all employees, contractors and the public.
+
+-  Foster and encourage a consistent company culture of health and safety excellence, based on Anergy’s corporate values of integrity, openness,
+  determination and performance.
+
+-  Empower the individual to take personal responsibility for their behavior with respect to safety and health issues.
+
+-  Develop and implement an effective health and safety risk management system, consistent with planned work activities, and promotes knowledge
+  development, retention and transfer.
+
+-  Comply with all legislation, regulation and industry standards relevant to safety and health.
+
+-  Establish targets and performance indicators to quantify and support the achievement of these objectives.
+
+-  In recognition of the importance of leadership, continuously develop the capability of leadership to positively and proactively impact the safety and
+  health performance of the workplace.
+
+-  Provide the necessary training to all employees as required, to allow them to work safely.
+
+-  Establish frameworks, policies and procedures to facilitate effective hazard identification, risk assessment and implementation of controls; and
+
+-  Provide effective rehabilitation support to employees in the event of a work-related incident, injury or illness
+
+   1. ..
+      rubric:: PERFORMANCE INDICATION :name: performance-indication
+
+..
+
+   The following schedule outlines the key performance indicators (KPI) identified for construction site works for the project.
+   As described later in this document, performance with respect to OH&S will be monitored and quantified against these KPI on a regular basis.
+   Indicators shall be
+
+   classified into leading and lagging indicators, tabulated as follows.
+
+.. _`leadingindicators`:
+
+leadingindicators:
+
+
+.. _`objective`:
+
+objective:
+
+**KPI**
+
+**Target**
+
+.. _`workersregularlyconsultedonohsmatters.ongoing,consistent,activeparticipationofallworkerswithownershipofsafetymanagement`:
+
+workersregularlyconsultedonohsmatters.ongoing,consistent,activeparticipationofallworkerswithownershipofsafetymanagement:
+
+Number of daily pre-start / weekly toolbox meetings conducted each week Number of daily pre-start / weekly toolbox meetings conducted each week
+
+One pre-start meeting per workday
+
+One toolbox meeting per fortnight,
+
+Average weekly attendance at pre-start meetings
+
+Minimum attendance of 75% relative to project headcount
+
+100% sign-off on pre-start meeting minutes
+
+.. _`maintaincompliancewiththerequirementsofthissafetyplan.`:
+
+maintaincompliancewiththerequirementsofthissafetyplan.:
+
+Result from safety audit (internal) and/or audits by Principal
+
+Minimum 90% compliance result on any audit.
+
+100% of non-conformances or observations rectified and closed out within agreed time frame.
+
+.. _`ensureallworkersareadequatelytrainedand/orcompetentfortheworktheyaretoundertake.`:
+
+ensureallworkersareadequatelytrainedand/orcompetentfortheworktheyaretoundertake.:
+
+Percentage of workers performing work for which they are not trained or competent.
+Percentage of workers performing work for which they are not trained or competent.
+
+NIL
+
+.. _`uptodateinformationonoh&sisprovidedforthedurationoftheproject.`:
+
+uptodateinformationonoh&sisprovidedforthedurationoftheproject.:
+
+Frequency of review of this safety plan, to maintain accuracy and currency.
+Frequency of review of this safety plan, to maintain accuracy and currency.
+
+Maintain a minimum of one review every six months.
+
+
+.. list-table::
+   :widths: 33 33 33
+   :header-rows: 0
+
+
+   * - Workers arefamiliar withhazards and risksand promote safetyas an active partof the work.
+     - Number of risk assessments carried out per number of high-risk activities.
+     - One Take5, per person, per day
+
+       All high-risk activities have attached SWMS documentation as part of Scope Of Works
+
+.. list-table::
+   :widths: 33 33 33
+   :header-rows: 0
+
+
+   * - **LAGGINGINDICATORS**
+     -
+     -
+
+   * - **Objective**
+     - **KPI**
+     - **Target**
+
+   * - Maintain zero harmto personnel andthe environmentacross theduration of theproject.
+     - Lost time injury frequency rate (LTIFR)  *Number of lost time injuries per million hours worked*.
+     - <2.0
+
+   * -
+     - Total incident frequency rate (TIFR)
+     - ≤ 4
+
+   * -
+     - *Number of recordable incidents per million hours worked*.
+     -
+
+   * -
+     - All injury frequency rate (AIFR)
+     - ≤ 20
+
+   * -
+     - *Number of injuries per million hours worked*.
+     -
+
+   * -
+     - Environmental performance
+     - NIL
+
+   * -
+     - *Number of environmental breaches or serious on-site emissions*.
+     -
+
+
+4. ..
+   rubric:: ROLES AND RESPONSIBILITIES :name: roles-and-responsibilities
+
+   1. ..
+      rubric:: ORGANISATION CHART :name: organisation-chart
+
+..
+
+   The following organisation chart shows the roles and responsibilities of individuals at the time of the issue of this plan.
+   The most current version shall be displayed in the site construction office.
+
+.. image:: media\Hazelm005.jpg
+   :width: 6.88889in
+   :height: 4.20208in
+
+SHARED RESPONSIBILITIES
+-----------------------
+
+   All parties are involved in the implementation and upkeep of a safe work environment.
+   Regardless of their other roles, all parties are responsible for the following.
+
+-  Observe all OSH rules and regulations.
+
+-  Work in a safe and sound manner without risk to themselves or others.
+
+-  Comply with this Safety Plan and all site rules.
+
+-  Correctly use personal protective equipment; and
+
+-  Comply with emergency and evacuation procedures.
+
+|Hazelm007|\ |Hazelm007|
+
+KEY RESPONSIBILITIES
+--------------------
+
+Anergy Senior Management
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Anergy Senior Management includes the Director of Anergy Australia Pty Ltd.
+   They have the responsibility of ensuring that the relevant legislation and regulations are being met through:
+
+-  Appointing a competent Project Manager for the Project and regularly monitoring their performance with regard to the Safety Management of the
+  Project.
+
+-  Having a safe system of work at all sites in which Anergy has responsibility.
+
+-  Encouraging a culture of safe work.
+
+-  Ensuring that Employees respect and adhere to the safety rules on the sites at which they are working.
+
+..
+
+   On a regular basis (notionally once every six months), Anergy Senior Management shall
+
+-  Review all key performance indicator (KPI) results from site; and
+
+-  Review any issues that arise and, where required, address them accordingly.
+
+Project Manager
+~~~~~~~~~~~~~~~
+
+   The Project Manager is responsible for:
+
+-  Reviewing and signing off this Safety Plan.
+
+-  Observing all OSH rules and regulations.
+
+-  Leading by example and promoting sound safety practices.
+
+-  Reviewing OSH reports and inspections and following up on recommendations.
+
+-  Ensuring that appropriate resources are available for meeting OSH requirements.
+
+-  Assisting injured employees to return to their pre-injury duties as soon as practical.
+
+.. _section-2:
+
+Site Manager
+~~~~~~~~~~~~
+
+   The Site Manager is Responsible for:
+
+-  Implementing this Safety and Health Management Plan.
+
+-  Observing all OSH rules and regulations.
+
+-  Communicating with the Project Manager to reduce risks.
+
+-  Applying this plan risk management principles to minimise OSH risks.
+
+-  Ensuring all work activities are carried out in a sound and safe manner.
+
+-  Ensuring safe equipment and plant is provided and maintained.
+
+-  Checking compliance against this plan.
+
+-  Co-ordinating any incident investigations and compilation of any reports.
+
+-  Reporting to the relevant authorities as and when required.
+
+-  Liaising with the client on matters of OSH as required.
+
+Subcontractors
+~~~~~~~~~~~~~~
+
+   In general, subcontractors shall assume the same responsibilities of workers.
+   Subcontractor supervisors shall assume the same responsibilities as supervisors.
+   Note that, while subcontractors shall operate under the direction or instruction of the Anergy staff, subcontractors shall maintain an individual
+   responsibility for complying with the requirements of this safety plan.
+
+Workers
+~~~~~~~
+
+   Workers (being Employees or Contractors) are responsible for:
+
+-  Following this Safety and Health Management Plan
+
+-  Reporting all incidents to their supervisor or the Site Manager.
+
+-  Reporting all injuries and illnesses to the designated First Aid Officer as soon as possible.
+
+-  Reporting any hazards to their supervisor or the Site Manager.
+
+-  Providing suggestion through agreed consultation methods on how to improve safety.
+
+-  Seeking assistance if unsure; and
+
+-  Reporting any defective equipment or plant to their Site Manager.
+
+OTHER RESPONSIBILITIES
+----------------------
+
+EMRC Hazelmere Site Manager
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   The EMRC Hazelmere Site Manager has an overall responsibility for the safety of the Lakes Road Facility that Anergy Operates within.
+   As such Anergy are subject to the requirements of the EMRC Hazelmere Site Manager including:
+
+-  Security of the facility including lock-up procedure is dictated by EMRC; and
+
+-  Adherence to traffic management plans issued by EMRC
+
+-  EMRC emergency response procedures.
+
+5. ..
+   rubric:: CONSULTATION AND REPORTING :name: consultation-and-reporting
+
+   1. ..
+      rubric:: GENERAL INFORMATION :name: general-information-1
+
+..
+
+   Active participation and consultation between all stakeholders shall be essential for ensuring a safe working environment.
+   Consultation and reporting must be clear, concise and open.
+
+   Stakeholders include:
+
+-  Employees and Contractors
+
+-  Site Safety Management team
+
+-  Site owners
+
+-  General project stakeholders
+
+..
+
+   Consultation occurs in reference to, but not limited to, the following subjects/topics:
+
+-  Hazard identification and risk management processes.
+
+-  Control measures for the management of hazards and risk.
+
+-  Changes to the organization’s policies and procedures, Safety Management Plan, or work routines which may affect OHS
+
+-  Make up of and representation on relevant committees; and
+
+-  Election of OHS and employee representatives
+
+-  Safety Performance and Planning
+
+..
+
+   The names and identification of first aid officers shall be posted on the safety notice board, as these details may change from time to time.
+
+   Specific points for facilitating consultation and reporting include:
+
+-  Site Induction
+
+-  Pre-start meetings
+
+-  Toolbox meetings
+
+-  Workplace inspections
+
+-  Safety audits
+
+-  Incident investigation
+
+-  Safety Plan Action Register
+
+SITE INDUCTION
+--------------
+
+   All workers, including employees and contractors, shall undertake an induction prior to their commencing work on site.
+
+   As a key component of their induction, inductees shall be informed of this safety plan and its contents.
+
+   Printed copies of the most current version of this safety plan shall be readily accessible to all workers in the crib facilities and construction site
+   office.
+
+   In some circumstances, it may be unnecessary or impractical for a visitor to site to undertake a full site induction.
+   At the discretion of the Site Manager or Project Manager, a visitor may be permitted entry to site on a fully supervised basis.
+
+   In this instance, the visitor must be accompanied by and operate under the instruction of the Site Manager or their nominated delegate.
+
+   A register and record of all inducted individuals shall be kept on site, and inductions shall remain current for a period of no longer than six months
+   (or earlier, at the discretion of the Site Manager).
+
+   Inductions can only be carried out by the Site Manager, Project Manager, or their approved delegate.
+
+PRE-START MEETINGS
+------------------
+
+   A structured pre-start meeting shall be held prior to the commencement of any construction activities each working day.
+   At a minimum, the pre-start meeting shall incorporate the following.
+
+-  Discussion of specific requirements for works to be undertaken that day, including
+
+   -  Forecasting expected work activities; and
+
+   -  Safety activities necessary to reiterate implementation of this plan.
+
+-  Communication of all safety incidents, hazards, or issues from the previous day; and
+
+-  Communication of the status and/or preliminary findings of any outstanding investigations.
+
+..
+
+   The pre-start meetings shall be carried out in such a way as to ensure all staff are fit for work on that day, prior to their starting on-site work.
+
+   Pre-start meetings shall be convened by the Site Manager and/or Site Supervisor.
+
+   Any workers arriving after the pre-start meeting shall be taken through the minutes and must sign the attendance record.
+
+   Pre-start meetings shall be convened by the Site Manager and/or Site Supervisor.
+
+   A record of each pre-start meeting shall be taken and filed in the meeting minutes file in the site construction office.
+
+   All attendees of the meeting shall be required to sign the meeting attendance record for verification of attendance.
+   Additionally, the minutes for the immediately preceding day shall be posted on the safety notice board.
+
+Any workers arriving after the pre-start meeting shall be taken through the minutes and must sign the attendance record.
+
+TOOLBOX MEETINGS
+----------------
+
+   In addition to the daily pre-start meeting, toolbox meetings shall be conducted every fortnight prior to the pre-start meeting.
+   The scope will be similar to the pre-start meeting, with the addition of the following.
+
+-  General discussion of significant upcoming work activities, and their hazards; and
+
+-  Discussion of a specific safety issue, to improve general safety knowledge and uphold familiarity of the contents of this safety plan.
+
+..
+
+   Toolbox meetings shall be convened by the Site Manager and/or or approved delegate.
+   As for the pre-start meetings, records of all toolbox meetings shall be taken and filed in the meeting minutes file in the site construction office.
+   Attendees shall be required to sign the attendance record.
+   The minutes for the most recent toolbox meeting shall be posted on the safety notice board.
+
+   Where an action arises from any toolbox or pre-start meeting, this action shall be added to the safety action plan register (SPAR) and resolved
+   accordingly.
+
+WORKPLACE INSPECTIONS
+---------------------
+
+   Formal inspection of work activities and the work area shall be conducted by the Site Manager or approved delegate each week.
+   The external safety consultant shall conduct an independent inspection once per fortnight or weekly as required.
+
+   Areas of inspection may include, where relevant:
+
+-  Access/Egress.
+
+-  Dust/Air Quality.
+
+-  Electrical.
+
+-  First Aid/Emergency/Injury.
+
+-  Public Protection.
+
+-  Stormwater/runoff.
+
+-  Training.
+
+-  Vegetation.
+
+-  Waste Management.
+
+-  Manual Handling; Working at Height; Confined Space; Dropped Objects
+
+-  Hazardous Substances/Dangerous Goods.
+
+-  Height work (including ladders & EWPs).
+
+-  Housekeeping.
+
+-  Noise.
+
+-  Personal Protective Equipment.
+
+-  Plant & Equipment; and
+
+-  Drinking Water Supply for workers and other General Housekeeping.
+
+..
+
+   The inspection shall follow a standardised check sheet format; and require sign off by the Site Manager or approved delegate.
+
+   Any areas of concern identified during a workplace inspection will be added to the SPAR and actioned accordingly.
+   Where required, at the end of each inspection a consultation with the supervisors involved will occur to look for and act upon areas of concern and
+   improvement.
+
+SAFETY PLAN ACTION REGISTER (SPAR)
+----------------------------------
+
+   The Safety Plan Action Register shall be maintained by the Site Manager and shall record actions that emerge from:
+
+-  Pre-start meetings.
+
+-  Toolbox meetings.
+
+-  Workplace inspections.
+
+-  Incident investigations.
+
+-  Weekly safety audits.
+
+-  Hazard observations; or
+
+-  Any other matter relating to management of this Safety Plan.
+
+..
+
+   At a minimum, actions recorded in the SPAR shall include the following information:
+
+-  Date raised.
+
+-  Process through which raised.
+
+-  Description of action.
+
+-  Person(s) responsible.
+
+-  Target date for completion; and
+
+-  Status of action.
+
+..
+
+   The Action register can be kept electronically however a copy of outstanding actions shall be displayed on the Safety Notice Board and communicated at
+   pre-start meetings as appropriate.
+
+INCIDENT MANAGEMENT
+-------------------
+
+   In any and every instance where an incident occurs, the first action shall be to render the situation safe for all persons.
+
+   Thereafter, all incidents shall be reported to the Site Manager at the earliest practical time after the incident.
+   The Site Manager shall then be responsible for opening an incident investigation and upholding communication with the Project Manager.
+   A preliminary investigation report, detailing initial findings, shall be submitted to the Project Manager as soon as is practicable after the incident
+   occurs.
+   Anergy maintains strong preference that the preliminary findings are communicated no later than 24 hours following the incident.
+
+   The Project Manager shall inform Anergy senior management of the incident at the time they are informed by the Site Manager.
+   Thereafter, the Project Manager shall be responsible for presenting the findings of the incident investigation to Anergy senior management.
+
+   Anergy shall contact the site superintendent immediately after any incident and inform the superintendent of the incident.
+   If superintendent is not contactable Anergy will escalate to principal as the next point of contact.
+   Anergy shall keep Superintendent abreast of each stage of the incident investigation and shall submit findings to them as part of the closure of the
+   investigation.
+
+   The final investigation report shall be completed, preferably within 7 days of the incident occurring, detailing:
+
+-  Root cause of the incident.
+
+-  Full investigation report; and
+
+-  Corrective actions taken or to be taken.
+
+..
+
+   All incident records shall be kept on file in the site construction office, in compliance with statutory requirements.
+
+   Notifiable incidents, as listed below, shall be reported to WorkSafe WA in the prescribed timeframes.
+
+-  The death of a person – immediately.
+
+-  A ‘serious injury or illness’ – immediately; or
+
+-  A ‘dangerous incident’– within 48 hours.
+
+   1. ..
+      rubric:: WORKPLACE SAFETY AUDIT :name: workplace-safety-audit
+
+..
+
+   A fortnightly workplace safety audit shall be conducted by the Site Manager or Safety Consultant
+
+   The audit shall be documented with supporting photographs, findings and actions.
+   All audits shall be completed on the same day as they commence and shall require sign off by the Site Manager.
+
+   Items to be covered are shown below.
+   This will be subject to change and depending on the phase of the project.
+
+-  Housekeeping
+
+-  Risk Assessment - Take5, SWMS and JHA
+
+-  Safety Equipment, Ladders, EWP, Cranes, Plant & Equipment
+
+-  Power tools, Electrical Equipment, Temporary Power
+
+-  Emergency Response and Evacuation
+
+-  Drugs & Alcohol, Fire and Dangerous Goods
+
+-  Work at Heights & Dropped Objects
+
+-  Hot Work and Confined Space Entry
+
+-  Manual Handling and Stores
+
+   1. ..
+      rubric:: ISSUE RESOLUTION :name: issue-resolution
+
+..
+
+   Project personnel have the *right to refuse to work* in an area where they reasonably believe continuance of work would create exposure of themselves
+   or anyone else to a risk of injury or harm to their health.
+
+|Hazelm007|\ |Hazelm007|
+
+   Where possible occupational safety and health issues will be contained at a local level by the Site Manager between the immediate parties involved.
+   Issues will be resolved using a consultative approach to the satisfaction of the concerned parties.
+
+   Given additional assistance is required, or there is potential for to escalate, Anergy’s Project Manager will become involved in the resolution
+   process.
+   Should the issue need more assistance, Anergy Senior Management will be consulted.
+
+   A copy of the Anergy “Issue Resolution Procedure” shall be available in the construction site office
+
+SAFETY KPI REPORTING
+--------------------
+
+The OH&S performance of the site shall be measured and quantified against the key performance indicators established in previous sections of this
+plan.
+
+A performance report shall be compiled at the end of each month, detailing the performance across the month in relation to all KPI’s.
+
+The report shall be published and posted on the site safety notice board, discussed at the first toolbox meeting of the following month, and
+concurrently be made available to the Principal.
+
+6. ..
+   rubric:: RISK MANAGEMENT :name: risk-management
+
+   1. ..
+      rubric:: OVERVIEW :name: overview
+
+..
+
+   Risk Management is the process of hazard identification, risk assessment and control.\ |Hazelm008|
+
+   The purpose is to mitigate potentially negative outcomes or hazards associated with the performance of tasks and activities on site.
+
+   Hazards are present in all tasks and must be identified competently.
+   Several tools are used in identifying hazards.
+
+   The Identified hazard is then added to the **Site Risk Register (SRR)**.
+
+   The Site Risk Register applies risk assessment principles to each hazard and controls which are required by this plan.
+   The residual risk determines how activities which have these hazards need to be managed.
+
+   A risk assessment process following the principles of this Section shall be used to determine the level of risk and the effect of controls.
+   Given the varied nature of tasks in construction, from simple fitting tasks up to complex lifts, one or more of SWMS, JHA or Take 5 shall be used.
+
+RISK ASSESSMENT PRINCIPLES
+--------------------------
+
+   100% of all activities on site require Risk Assessment prior to commencement.
+   This section covers the principles to be used including the Risk Matrix and the Hierarchy of Controls for risk mitigation.
+   The following section then covers the Risk Assessment Tools to be used that utilise these principles.
+
+Risk Matrix
+~~~~~~~~~~~
+
+   For this Project the following Risk Matrix is used.
+
+.. list-table::
+   :widths: 14 14 14 14 14 14 14
+   :header-rows: 0
+
+
+   * - **Likelihoodofinjuryorharmtohealth**
+     - **Occur rence**
+     -
+     -
+     -
+     -
+     -
+
+   * -
+     -
+     -
+     -
+     - M rate
+
+       LTI)
+     -
+     -
+
+   * - Rare
+     - Will  occur only in exce ptional  circum stances
+     - Low
+     - Low
+     - Low
+     -
+     - High
+
+   * - Unlikely
+     - Less than once  a year
+     - Low
+     - Low
+     -
+     - High
+     -
+
+   * - Moderate
+     - Less than once  a quarter
+     - Low
+     -
+     - High
+     - High
+     -
+
+   * - Likely
+     - Less than once  a week
+     -
+     - High
+     - High
+     -
+     -
+
+   * - VeryLikely
+     - More than once a week
+     - High
+     - High
+     -
+     -
+     -
+
+
+..
+
+   The following table shall be used as a legend for understanding the acceptability of each of the in-site risks.
+
+.. _`riskacceptabilitylegend`:
+
+riskacceptabilitylegend:
+
+
+.. _`low`:
+
+low:
+
+Acceptable risk with periodic review
+
+.. _`medium`:
+
+medium:
+
+Tolerable with active monitoring
+
+.. _`high`:
+
+high:
+
+STOP – risk is *not* tolerable and requires reduction
+
+.. _`extreme`:
+
+extreme:
+
+STOP – risk is *not* tolerable and requires reduction, if possible
+
+
+Mitigating Risk
+~~~~~~~~~~~~~~~
+
+   Where controls are required to mitigate risk from hazards, the following diagram shows the effectiveness for various types of control.
+   More effective controls should be picked where possible over less effective.
+
+.. image:: media\Hazelm006.jpg
+   :width: 5.75001in
+   :height: 4.59375in
+
+Residual Risk
+~~~~~~~~~~~~~
+
+   Risk needs to be reassessed after considering any risk mitigation strategies.
+   This risk forms the residual risk to the activity.
+   The basis on which the activity can commence is classified according to the following legend.
+
+.. _`residualriskacceptabilitylegend`:
+
+residualriskacceptabilitylegend:
+
+
+.. _`low`:
+
+low:
+
+Can proceed with controls as stated
+
+.. _`medium`:
+
+medium:
+
+Can proceed after notifying Site Manager of risks and with controls as stated
+
+.. _`high`:
+
+high:
+
+STOP – *Cannot* proceed without further controls
+
+.. _`extreme`:
+
+extreme:
+
+STOP – *Cannot* proceed without further controls, if possible.
+
+
+HAZARD IDENTIFICATION & SITE RISK REGISTER (SRR)
+------------------------------------------------
+
+   Hazards are present in all tasks and must first be identified and registered.
+   Tools used by this Project to identify Hazards present include:
+
+Construction Risk Assessment Workshop (CRAW)
+--------------------------------------------
+
+   See below
+
+Hazard Observations (HAZOB)
+---------------------------
+
+   See below
+
+   Training, consultation and monitoring shall also be provided to ensure that hazards can and are correctly identified for tasks to be completed.
+   These processes shall include:
+
+Site Based Inductions
+---------------------
+
+   Refer Section 5.2
+
+.. _toolbox-meetings-1:
+
+Toolbox Meetings
+----------------
+
+   Refer Section 5.4
+
+.. _workplace-inspections-1:
+
+Workplace Inspections
+---------------------
+
+   Refer Section 5.5
+
+Workplace Safety Audits
+-----------------------
+
+   Refer Section 5.8
+
+   A pre-mobilisation **Construction Risk Assessment Workshop (CRAW)** has been conducted by the Anergy design and construction team.
+   This assessment process:
+
+a) Used keywords for potential hazards.
+
+b) Identified potential causes for such hazards to exist.
+
+c) Determined using the Risk Matrix in Section 6.2 the Risk of Works.
+
+d) Identified Risk Reduction actions required for this Safety Plan; and
+
+e) Determined the Residual Risk remaining of the hazard.
+
+..
+
+   The results of the CRAW have formed the **Site Risk Register (SRR)**.
+
+   Where new hazards are identified which are not already captured in the SRR (for example, through HAZOB or other risk assessment activities), a team
+   shall complete steps b) through (e) above, and the results shall be appended to the SRR.
+
+   In assessing any tasks to be performed through processes such as T5RA, JHA, SWMS or otherwise (see further below), the SRR shall be consulted to
+   understand the safety plan control measures and residual risks of hazards involved.
+
+   It must be noted, however, that consulting the SRR in this way *does not* substitute the necessary T5RA, JHA or SWMS processes.
+
+RISK ASSESSMENT TOOLS
+---------------------
+
+   Given the varied nature of tasks in construction, from simple fitting tasks up to complex lifts, the tool(s) used to properly assess the task will be
+   one of the following:
+
+Safe Work Method Statements (SWMS)
+----------------------------------
+
+   Refer Section 6.5
+
+Job Hazard Analysis (JHA)
+-------------------------
+
+   Refer Section 6.6
+
+‘Take 5’ Risk Assessment (T5RA)
+-------------------------------
+
+   Refer Section 6.7
+
+   It is expected that prior to commencement of any risk assessment process the supervisory team shall plan all activities associated with a task to
+   clearly inform this process.
+
+   The tool to be used shall depend on the hazards identified for the activity and tasks at hand.
+   It shall be acceptable to conduct a **Take 5 Risk Assessment (T5RA)** if
+
+-  The hazards identified are also registered in the SRR.
+
+-  The residual risk of these hazards, as registered in the SRR, is *L* *OW*; and
+
+-  The task involves a maximum of two (2) people.
+
+..
+
+   In all other cases, a **Job Hazard Analysis (JHA)** shall be required just before commencement on site of any work relating to the activity at hand,
+   regardless of whether the activity also has a SWMS.
+
+   A **Safe Work Method Statement (SWMS)** shall be completed prior to commencement under any of the following circumstances.
+
+-  The risk or residual risk of any hazard registered in the SRR is HIGH or EXTREME.
+
+-  Where the activity is classified, per OSH Regulations Reg 3.137, as being ‘high-risk construction activity’.
+  Such activities of particular relevance to this project include:
+
+   -  Construction work involving a risk of a person falling 2m or more.
+
+   -  Construction work involving a confined space; and
+
+   -  Construction work on or near energised electrical installations and lines.
+
+-  Whenever the Site Manager requests one be performed.
+
+.. _safe-work-method-statements-swms-1:
+
+SAFE WORK METHOD STATEMENTS (SWMS)
+----------------------------------
+
+   A SWMS is prepared by those that have expertise in the activity to be completed.
+   A final site review will be undertaken in the form of the JHA.
+
+   The SWMS is applicable for the duration of the activity or activities listed.
+   However, it may be necessary through the JHA process to update and improve if conditions change over the course of the activity.
+
+   The SWMS shall clearly identify:
+
+A. The person(s) signed on to the SWMS.
+
+B. The type of work to be completed.
+
+C. What equipment and materials are needed.
+
+D. What personnel and competencies are required.
+
+E. Description of how the work is carried out.
+
+F. What tasks have hazards.
+
+G. What these hazards are.
+
+H. What control measures will be applied to tasks; and
+
+I. How and by whom these control measures will be applied.
+
+..
+
+   Under step F and G, the risk management principles Section 6.4 shall apply including the Risk Matrix and Hierarchy of Control.
+   Where an alternate Risk Matrix is applied, the Site Manager shall determine if this is acceptable or not.
+
+   Anergy has a standard SWMS form but those submitted by Subcontractors or Service Providers shall be considered satisfactory if the Site Manager
+   approves that they identify the information above.
+
+   Any SWMS used on the Project must be lodged with the Construction Office and added to the Safety File.
+   Any currently used SWMS statements shall be made available to all workers.
+
+.. _job-hazard-analysis-jha-1:
+
+JOB HAZARD ANALYSIS (JHA)
+-------------------------
+
+   A Job Hazard Analysis (JHA) shall be required immediately prior to the start of any new activity or on the restart of any activity.
+   The exception is as discussed in Section 6.4 where a T5RA to begin with shall be acceptable.
+
+   The JHA shall prepared by all workers, supervisors and managers who will be directly involved in the activity.
+   It shall be completed on the day of the work and shall only be applicable for the duration of that day.
+   This is to ensure that any changes in the environment, personnel, site or other externalities are captured.
+
+   Where the JHA is performed on activities covered by a SWMS, the JHA shall refer to that SWMS and its tasks and controls therein.
+
+   The JHA shall clearly identify:
+
+A. The actual work to be completed.
+
+B. Actual equipment and materials which will be used.
+
+C. Names and roles of personnel who will be involved including who will supervise.
+
+D. Step by step description of how the work will be carried out.
+
+E. What steps have hazards.
+
+F. What these hazards are.
+
+G. What control measures will be applied to specific steps; and
+
+H. Who will take responsibility for the control measures?
+
+..
+
+   Under step E and F, the Risk Management principles Section 6.4 shall apply including the Risk Matrix and Hierarchy of Control.
+
+   Anergy has a standard JHA form which shall be used.
+   All workers must sign on to the JHA before being able to participate in the activity.
+   Changes in roles must also be recorded if they occur during the day.
+
+   All JHA’s must be approved by the identified Supervisor before commencing work.
+   A copy of the JHA must remain in the Construction Office and will on completion of the day be added to the Safety File.
+
+.. _take-5-risk-assessment-t5ra-1:
+
+TAKE 5 RISK ASSESSMENT (T5RA)
+-----------------------------
+
+   Take 5 is a risk assessment tool in the form of a notebook to be carried by all workers.
+   Books are issued at the pre-start meeting and need to be returned to the construction office on the completion of each day.
+
+   All workers will be trained in the use of the T5RA tool during the Site Induction.
+
+   It is expected that workers shall complete T5RA assessments at the start and restart of work during the day.
+
+   The quality of T5RA shall be a key performance indicator.
+
+7. ..
+   rubric:: TRAINING :name: training
+
+   1. ..
+      rubric:: TRAINING MATRIX :name: training-matrix
+
+..
+
+   Work to be carried out on site shall often require workers have completed particular training or be able to demonstrate particular competency.
+   Additionally, individual positions or roles shall have a prescribed set of training as a minimum requirement for acting in that role on site.
+
+   To easily identify the required training for each role, and the training held by each individual worker, the training matrix shall be established to
+   capture these requirements.
+   Each individual item of training or competency shall be graded according to the following nomenclature.
+
+   Code *Y* Achieved
+
+   Code *R* Required, but not achieved
+
+   Code *T* Training currently in progress, but not yet achieved
+
+   Code *D* Not necessarily required; not achieved; desirable (optional) Code X Not required and not achieved
+
+   Four classifications of training shall be established:
+
+1. Formal qualifications, including tertiary and trade qualifications (e.g. electrician; engineering degree).
+
+2. Internal training and demonstrable competencies (e.g. forklift competency.
+
+3. comprehension of this safety plan).
+
+4. Work-specific and high-risk work licenses, as formal licenses pertaining to specific work tasks (e.g. rigging licenses; crane operator licenses; EWP
+   license); and
+
+5. Nationally recognised training (e.g. construction white card; first aid certificate).
+
+..
+
+   The individual items of training or competency under each classification shall be subsequently developed according to the specific construction works
+   to be carried out.
+
+   Evidence of worker training, certification, etc.
+   shall be captured, recorded, and stored in Anergy head office.
+   The training matrix shall be correspondingly maintained to ensure its currency and accuracy.
+   Sensitive documents shall be stored in a locked cabinet with limited access.
+
+   When assigning work tasks to individuals, managers, supervisors and workers shall together consult the training matrix to ensure currency and adequacy
+   of a worker’s training for the particular task.
+   Where a gap is identified, the parties shall consult and report to the site manager
+
+   to close the gap without compromising safe work.
+
+   Where training may expire the expiry date of any license shall be taken and recorded in the training matrix.
+
+CONSTRUCTION INDUCTION TRAINING
+-------------------------------
+
+   All Workers on site must either be holders of a current Western Australian Construction White (or Blue) Card.
+   Random checks of White/Blue card validity will be conducted, and all workers on site will be made available of these checks.
+
+   White/Blue cards shall be recorded in accordance with Section 7.1 at the time of site induction to ensure that all personnel are fully inducted.
+
+SITE SPECIFIC INDUCTIONS
+------------------------
+
+   Inductions shall be conducted by either the Site Manager prior to the commencement of work by Workers (see also Consultation and Reporting and Site
+   Rules - Visitors).
+
+   All inductions shall be recorded and signed by both the Worker and the Inductor.
+   Records shall be kept in the Site Office.
+
+WORK-SPECIFIC TRAINING REQUIREMENTS
+-----------------------------------
+
+   The following section lists typical licenses that shall be held by workers in order to complete specific activities.
+   This list shall be neither prescriptive nor exhaustive and shall be adapted in the formulation of the training matrix according to the requirements of
+   the project.
+
+-  Australian Driver’s License – driving any vehicle on site.
+
+-  WorkSafe WA-recognised High Risk Work License, for any high-risk activity including.
+
+   -  Forklift license – driving forklift vehicles.
+
+   -  Dogman and rigger licenses – high-risk lifts.
+
+   -  Crane operator qualification – matching the crane type and size.
+
+   -  Scaffolding license – for scaffolding work where a fall may be greater than four (4) metres distance from the scaffold platform.
+
+   -  Certificate of competency for boom-type EWP, where boom length is 11 metres or greater.
+
+   -  Electrical license – for electrical installations and wiring or cable work.
+
+   -  Plumbing or gas fitting license.
+
+   -  Confined space entry license.
+
+-  Relevant training for working at heights, where required.
+
+..
+
+   In general, the SWMS for a given activity shall highlight any other general competencies required.
+
+8. ..
+   rubric:: INJURIES AND RECOVERY :name: injuries-and-recovery
+
+   1. ..
+      rubric:: INJURIES AND RECOVERY :name: injuries-and-recovery-1
+
+..
+
+   All injuries shall be reported in the first instance to the Site Manager at the earliest practical time after the incident occurs.
+   Further, all injuries shall be reported as soon as practical (immediately as preference) to the designated First Aid Officer(s) in the workplace.
+
+   All injuries shall be recorded in the First Aid Register located in the construction site office.
+   When an injury requires medical attention or off-site treatment, an incident investigation shall be carried out pursuant to the incident reporting
+   policy.
+   The incident report shall be maintained accordingly and distributed to the Principal.
+
+   Anergy shall utilise its injury management system to assist an injured employee to return to work, as far as is reasonability practical.
+   All subcontractors shall be required to maintain their own return to work policies, including appointing a trained return-to-work coordinator as
+   required.
+
+9. ..
+   rubric:: SITE RULES :name: site-rules
+
+   1. ..
+      rubric:: SITE OPERATING HOURS :name: site-operating-hours
+
+..
+
+   The site shall operate based on the following schedule.
+
+   Normal Operating Hours Monday to Friday, 6am to 6pm Weekends Saturday as required
+
+   Closed on Sunday
+
+   The site shall remain open between 0700 and 1500 Monday to Friday and is managed by the Principal.
+   If Anergy staff require access to the site outside of these hours, the Main Gate must be immediately closed and locked after transitioning on or off
+   site.
+
+SITE ENTRY / VISITORS
+---------------------
+
+   Workers and visitors to the site shall be generally accommodated by prior appointment only.
+   Upon arrival at site all visitors shall be required to:
+
+-  Report to the Site Office.
+
+-  Sign into a visitor register and provide suitable contact details.
+
+-  Wear appropriate site clothing (enclosed shoes and long pants at a minimum); and
+
+-  Wear PPE provided to them including hard hat, high-visibility vest, safety glasses, and hearing protection as applicable.
+
+..
+
+   During their visit, visitors shall be required to be accompanied an inducted person delegated by the Site Manager.
+   Visitors shall not be allowed to photograph or record without prior permission of the Site Manager.
+   Visitors are not allowed to perform any work outside of passive observation without first being inducted
+
+   Prior to exiting, visitors shall be required to:
+
+-  Return PPE provided to them; and
+
+-  Sign out of the visitors register.
+
+..
+
+   The site plan shall detail areas in which certain PPE must be worn, and where visitors may not venture unaccompanied.
+
+   Heavy vehicles must stop at the old permanent gate (old access to weighbridge) on Lakes Road.
+   The driver must then call the Site Manager.
+
+   Anergy staff will then exit the facility to escort the driver to the hold point before being escorted by Principals delegate to the Anergy Heavy
+   Vehicle Access Point
+
+   Delivery drivers shall be treated as visitors and must remain within the designated area during loading and unloading process.
+   At all stages the old gate needs to stay locked; gate is open for access/egress and locked soon after.
+   The gate must not be left open or unlocked unattended.
+
+PERSONAL PROTECTION EQUIPMENT
+-----------------------------
+
+   Employees of Anergy shall be issued personal protection equipment as required by supervisors At the time of issue, the employee shall need to be
+   assessed as being appropriately trained in the correct use and maintenance of the item.
+   The employee then becomes responsible for ensuring that it is used appropriately and either disposed of or replaced as needed.
+
+   Contractors who are required to provide their own PPE must ensure that the equipment is fit for purpose; not allowing it to become inappropriately
+   defaced or maintained.
+   PPE shall be available to the Site Manager for inspection on request.
+
+   Minimum site PPE requirements on site are as follows:
+
+-  Hard hats within main plant area meeting AS 1801.
+
+-  Full length pants.
+
+-  Appropriate Top; either
+
+   -  Hi-vis vest and long sleeve shirt; or
+
+   -  Long sleeve, high vis shirt.
+
+-  Closed footwear.
+
+-  Steel Capped Boots meeting AS 2210; and
+
+-  Eye and hearing protection where applicable.
+
+..
+
+   Where PPE is provided by Anergy on a short-term basis, such as to visitors, the details of such provision shall be recorded in the PPE register, which
+   shall be kept in the construction site office.
+
+SPECIAL NEEDS
+-------------
+
+   Construction sites are generally suitable for fit and capable people.
+   From time to time however, special needs may need to be accommodated.
+   Where this is required, this must be discussed with the Site Manager will be resolved on a case by case basis.
+
+SAFETY EQUIPMENT
+----------------
+
+   Safety equipment is any item used to reduce the risk associated with a work activity.
+   Such equipment shall be treated in the same manner as Plant and Equipment (see below).
+
+   Details of all safety equipment including serial numbers and inspection dates shall be maintained in the Equipment Register.
+
+USE OF LADDERS
+--------------
+
+   All ladders on site are required to comply with the relevant Australian Standards:
+
+-  AS 1657 – Fixed Platforms, Walkways, Stairways and Ladders.
+
+-  AS 1892.2 and AS 1892.4 – Portable Timber Ladders; and
+
+-  AS 1892.1 – Portable Ladders Metal.
+
+..
+
+   The Site Manager shall maintain a ladder register for all portable ladders brought onto site.
+   The register shall capture, at a minimum:
+
+-  Date of introduction to site.
+
+-  Owner of the ladder, and who is responsible for its upkeep.
+
+-  Make, model and manufacture details.
+
+-  Qualitative assessment of condition at receival to site; and
+
+-  Compliance with Australian standards.
+
+..
+
+   Prior to use on any task, a ladder shall be inspected for integrity and any signs of damage.
+   Any non-conformities to these standards shall be noted, and the ladder shall be quarantined from use until such non-conformities are rectified.
+
+   Ladders are only to be used for very light work where three-point contact can be assured.
+   Use of ladders shall not allow overreach over sides of ladder, and ladders shall be used only where a firm and level surface is available for the feet.
+   Ladders are only appropriate where a 4:1 angle between the ground and the wall can be maintained.
+
+USE OF ELEVATED WORK PLATFORMS
+------------------------------
+
+   An elevated work platform (EWP) shall be generally made available and shall be considered before using a ladder.
+
+   EWP leased by Anergy shall carry the current logbook and manufacturer’s operation and maintenance manual(s) at all times.
+   Evidence of third-party annual inspection in accordance with *AS 1418.10 – EWP Inspections and Testing* will be made available to Anergy upon request.
+
+   A pre-start inspection of any EWP shall be performed prior to use.
+   Additionally, all necessary risk assessment procedures (nominally, completion of a JHA) shall be carried out prior to use.
+   Any EWP shall be operated in accordance with AS 2550.10 and the manufacturer’s instructions to ensure safe operation and prevent misuse of the EWP.
+
+   Exiting the basket of an EWP while elevated shall be prohibited, unless in the unlikely situation where there is no safer means of access/egress and
+   conditions specified in Section 5.9 of AS 2550.10 are met.
+
+   EWP shall not be used as cranes or lifting devices.
+   Where a boom-type EWP is used with a boom length of 11 metres of greater, the operator shall be required to hold the necessary training or certificate
+   of competency (class WP).
+   In consultation with the training register, work activities
+
+   requiring the use of EWP shall be allocated to workers with adequate demonstration of competency.
+
+   Portable electrical equipment used in an EWP shall be plugged into the EWP 240V power outlets.
+   The hanging of extension cables from an EWP basket to the ground shall be prohibited.
+
+   When work at height is being performed, a SWMS shall be completed in any of the following cases.
+
+-  Potential exists for a fall of two (2) metres of more.
+
+-  There is no compliant fixed edge; or
+
+-  Any other case where the Site Manager deems necessary.
+
+..
+
+   During this process, a working at height permit shall be completed and the checklist attached to the SWMS, such that all hazards and risks are
+   adequately addressed prior to commencing work.
+   Pursuant to risk assessment procedures, a review of any SWMS shall be required at the beginning of a working day if any identical working at heights
+   is required.
+
+POWER TOOLS
+-----------
+
+   Power tools shall be in a serviceable condition.
+   Tools shall meet electrical requirements (see Electrical Equipment).
+   All equipment shall only be used in accordance with the manufacturer’s recommendations and without any safety mechanisms overridden or removed
+   including guards.
+
+   All works with grinders is limited to the use of a 5-inch grinder.
+   The use of 9-inch grinders is strictly prohibited.
+
+EMERGENCIES AND EVACUATION
+--------------------------
+
+   Whilst there is a low risk that a site wide emergency will occur from an internal issue, there is a higher risk that there is a need to evacuate from
+   an external threat.
+   In the event of any evacuation, the site manager shall immediately notify the Principal.
+
+   The local evacuation alarm shall be a hand-operated air horn, which shall be stored in immediate access in the construction site office.
+
+   The air horn shall be sounded in the event of an evacuation being required.
+   All works shall immediately and safely cease their work and communicate the need to evacuate to others if necessary.
+   All workers shall then proceed to the primary muster point (E1) indicated on the site plan.
+   In the first instance, supervisors shall account for all persons on site at this point and report to the site manager.
+
+   In the event that further evacuation to Lakes Road be required, workers shall be directed to the second muster point (E2) on foot.
+   No vehicle use shall be permitted unless explicitly directed to do so by the site manager, or other appointed delegate.
+   Site Manager shall again account for all persons at this point.
+   With the exception of specifically trained personnel, no worker shall attempt to fight a fire.
+
+   Emergency Vehicle access to the site and Project Employee evacuation points are detailed on the `Traffic Management drawing <#2et92p0>`__ – designated
+   E1 as the primary point and E2 as the secondary point.
+
+   This evacuation procedure shall be tested at least once every 3 months with prior warning to all
+
+   personnel and the Principal.
+
+   A list of emergency contacts plan shall be posted on the site safety notice board.
+   An emergency evacuation plan shall be prepared and posted at numerous locations around the site.
+   Where temporary changes to the evacuation plan are required, these shall be posted accordingly, and the change communicated clearly to all workers on
+   site.
+
+SMOKING
+-------
+
+   Smoking is strictly prohibited anywhere within the confines of the wider Hazelmere Resource Recovery Park site at all times.
+   This includes the use of electronic cigarettes, or other such smoking implements.
+
+FIRST AID
+---------
+
+   A first aid kit shall be kept complete and readily accessible in the construction site office.
+   First aid officers shall be clearly identified at the Site Office with photos, names and contact information clearly marked.
+   Where first aid is required, the First Aid officer shall apply and then log a report after the Site Manager.
+   No report forms shall be kept immediately with the First Aid kit but will be stored in the Site Office.
+   The first aid kit will be routinely checked and re-stocked every 3 months or after each use by the First Aid Officer(s).
+   First Aid Officers shall be retrained every 12 months to ensure currency of skills
+
+SECURITY
+--------
+
+   Whilst the site is embedded in the greater fenced Hazelmere site, several requirements must be met by all persons.
+
+-  The front and side entry gate shall be unlocked each morning at 0700
+
+-  Light vehicle access to site is via the existing weighbridge gate and boundary gravel track as detailed in Section 1.2.
+
+-  Both gates shall be locked again at 1500 or after all persons have left site.
+
+-  Locking of gates shall be done to facilitate entry and exit by authorized personnel (lock-to-lock).
+
+-  Missing equipment or goods must be reported to the Site Manager immediately, and an incident report completed; and
+
+-  Any unknown persons (strangers) to the site should be challenged and escorted to the construction site office to sign in.
+  Where a person has attended site without permission, the site supervisor shall be informed, the person escorted from the site, and an incident report
+  completed.
+
+..
+
+   Keys shall be signed in and out on a register and all keys shall be returned by the end of the workday each day or after their intended use.
+   Workers who have signed the keys out shall be held responsible for their safe return.
+
+HARASSMENT, BULLYING AND WORKPLACE VIOLENCE
+-------------------------------------------
+
+   Harassment and bullying shall not be tolerated in the workplace.
+   Any incident must be reported immediately to a supervisor, or the Site Manager.
+   All incidents will be treated confidentially and investigated appropriately.
+
+   Violence on the site is not tolerated and any participants shall be removed immediately from the site.
+   Allowance back on to the site shall require an appeal to the COO.
+
+   Anergy policy on harassment, bullying, and workplace violence will be communicated to workers in the site induction by the Site Manager.
+
+DRUGS AND ALCOHOL
+-----------------
+
+   Risks at work can be greatly increased when team members are working under the influence of drugs or alcohol.
+   The Site has zero tolerance of recreational drugs or alcohol influencing individuals and this shall be communicated in the site induction by the Site
+   Manager.
+
+   Random drug and alcohol testing shall be in place for the duration of the Project
+
+   by an external third party and shall form a central performance indicator for the site.
+   Prescription Medication shall be allowed provided the following circumstances are met:
+
+-  Medication does not affect mental state.
+
+-  Workers can provide a Doctor’s note for any and all medications being taken; and
+
+-  Approval from the Anergy Site Manager has been given.
+
+FIRE
+----
+
+   Fire extinguishers shall be kept permanently at the workshop area.
+
+   An external consultancy will be hired to maintain a fire extinguisher register and conduct half yearly testing and re-tagging.
+   This register is to be provided to Anergy and will be maintained on site.
+
+   When work is completed all extinguishers must be returned to their designated areas if they have not been discharged.
+   Those which have been discharged are to be returned to the Site Office for recharging where Anergy will organise a replacement unit for return to the
+   original location.
+   The use of any extinguisher must be reported to the Site Manager.
+
+   Prior to any hot work activity and as part of completing the Principal’s hot work permit, all equipment to be used shall be checked for the presence
+   of defects.
+   These checks are to be carried out by the individual in direct control of the equipment.
+
+DANGEROUS GOODS AND HAZARDOUS SUBSTANCES
+----------------------------------------
+
+   Any dangerous goods or hazardous substance (including paints and solvents, cleaning agents, diesel and fuels, and industrial gases) cannot be brought
+   onto site without first:
+
+-  Seeking permission from the Site Manager.
+
+-  Supplying an appropriate material safety data sheet (SDS) or equivalent to the Site Manager; and
+
+-  Having an appropriate storage location prepared.
+
+..
+
+   Specifically, designated chemical storage locker facilities shall be provided for storage of dangerous goods on site.
+   The storage and handling of dangerous goods shall be conducted in compliance with the National Occupational Health & Safety Commission’s National Code
+   of Practice (NOHSC:1015(2001)), the relevant Australian standards and regulations on dangerous goods, and as per the manufacturer’s instructions.
+
+   Where required, the use of dangerous goods shall be preceded by completion of a SWMS.
+   Together with the SDS, the SWMS shall be stored alongside the material in the designated
+
+   storage facility.
+   Inspection of this storage location will be conducted regularly.
+
+COLD WORK
+---------
+
+   Cold work includes the use of hand tools or other such items where there is no heat involved.
+   During the construction phase, no permit is required for someone to commence cold work, provided that no other permit is required.
+   Work activity can commence once it has been cleared by the supervisor after being discussed with the Site Manager.
+
+HOT WORK
+--------
+
+   Hot work includes the use of power tools or other such items where heat will be produced.
+   It includes cutting, drilling, grinding, welding, brazing, soldering and other such tasks.
+
+   When hot work is being performed a SWMS will be completed.
+   During this process, EMRC’s Hot Work Permit will be used, and the checklist attached to the SWMS, to ensure all hazards and risks have been adequately
+   addressed prior to commencing work.
+
+   Hot work permits are to be completed for the day they are required and approved by Site
+
+   Manager.
+
+   A review of the SWMS will be required at the beginning of every working day if any identical hot
+
+   work is required on a day after the SWMS was completed.
+   A mandatory sign off for each worker is required upon completion of this review.
+   The SWMS and sign-off register will be maintained by the Site Manager and retained in the Site Office.
+
+   The Site Supervisor marks out areas on a site map in which hot work will be allowed to be performed for the duration of that working day.
+
+   Hot work will be continually monitored by the Site Manager and Site Supervisor to ensure safe work practices are being employed and fire risk is
+   mitigated.
+
+   No hot work will be allowed on days where a Total Fire Ban is in place.
+   Site Manager and Site Supervisor are to be aware of the presence of current Total Fire Ban.
+
+   No Worker who has not signed onto the Hot Work Permit is permitted to perform any hot work.
+   Hot work permits are only valid for the task and area which they have been provided for on their date of issue.
+
+CONFINED SPACE ENTRY
+--------------------
+
+.. _section-3:
+
+   Anergy shall ensure that any confined space entry, training, and control of associated activities comply with the requirements of AS 2865 – Safe
+   Working in a Confined Space.
+
+   No confined space work, as defined by Regulation 3.82 of the Occupational Safety and Health Regulations 1996, is anticipated to occur on this site.
+
+   However, should such an activity be required a SWMS and Confined space entry permit will be completed.
+
+   The permit and SWMS shall be reconciled, to ensure all hazards and risks have been adequately addressed prior to commencing work.
+   The SWMS will include the consideration for the use of appropriate signage and protective barriers to prevent unintentional entry, air monitoring
+   instruments, and a safety observer.
+   No work can occur until this has been completed.
+
+   A new SWMS will be required at the beginning of every working day if any identical confined space work is required on a day after the SWMS was
+   completed.
+   A mandatory sign off for each worker is required upon completion of this review.
+   The SWMS and sign-off register will be maintained by the Site Manager and retained in the Site Office.
+
+   All workers involved in the confined space activity must be competent as defined by AS 2865.
+   That is, Anergy shall ensure that any worker assigned to confined space work will have, through a combination of training, education and experience,
+   acquired knowledge and skills enabling that person to perform correctly and safely a specified task.
+
+.. _safe-work-method-statements-swms-2:
+
+SAFE WORK METHOD STATEMENTS (SWMS)
+----------------------------------
+
+   Safe work method statement forms shall be available from the Site Office.
+   These must be filled in for:
+
+-  Any activity defined as “high risk construction work” within OSH Regulations 1996 (Part 3, Division 12, Reg.
+  3.137)
+
+-  Any time the work supervisor feels that it is necessary
+
+..
+
+   Any worker is able to request a review of the SWMS at any time for the task they are assigned.
+   Specific activities that must have a SWMS completed prior to work include:
+
+-  Confined space entries into equipment
+
+-  Work involving a risk of a person falling 2 metres or more (e.g. constructing the structure)
+
+-  Work involving alteration to a structure that requires the structure to be temporarily supported to prevent its collapse
+
+-  Moving heavy plant into the site
+
+-  Mechanical lifting of loads other than by forklift (>2t)
+
+SWMS will be completed by the supervisor of the activity with those who will be involved
+
+and preferably with either the Site Manager.
+
+The SWMS must then be signed off by the Site Manager and a copy recorded with the Site Office.
+Work shall not commence until the SWMS is signed off.
+
+Where subcontractors are performing work at Anergy site, they may use their own risk assessments [JHA/SWMS] with Site Manager’s approval and where
+risk matrix is aligned appropriately.
+A copy of the SWMS/JHA must be on file prior to the commencement of any work.
+
+The review of all previously completed SWMS is to be done at the discretion of the Site Manager, prior to completing a new task.
+
+ELECTRICAL EQUIPMENT
+--------------------
+
+   All electrical wiring, equipment and portable tools used in the construction phase must comply with the requirements of AS3012, Electrical
+   Installations - Construction and Demolition Sites along with the Wiring Rules (AS3000).
+
+   Any items brought on to the site for use in the construction phase must be registered through the Site Manager prior to use.
+
+   All equipment leads, power distribution boxes and earth leakage devices must be tested by a suitably qualified person and tagged prior to use.
+   No extension leads are allowed to be run along the ground (cable stands to be used).
+   Prior to any work conducted the tags on any electrical equipment must be checked for currency and a push button test on all RCD’s used is required to
+   verify their functionality.
+   No ganging/doubling-up of extension leads will be allowed.
+
+   Tags are to be inspected by the Site Manager on a regular basis.
+
+VEHICLES
+--------
+
+   All vehicles are to be parked in the allotted area.
+   Light vehicles entering the construction area must be for a specific purpose and are to be returned back to the parking area once the purpose is
+   complete.
+   Speed limits shall be a maximum of 10km/hr or lower as conditions dictate.
+
+   All on site signage is to be followed at all times.
+
+ANIMALS
+-------
+
+   Animals are prohibited from being brought on to the site.
+   In the scenario a snake is found, everyone in its vicinity is to walk away from it slowly and keep an eye on it from a safe distance.
+
+   The site Manager is to be alerted immediately who will contact a local Ranger for safe removal of the snake.
+   The Site Manager is also to be alerted immediately of the presence of any other dangerous animals, and they will contact the EMRC OS&H Coordinator to
+   assist in the removal of the animal.
+
+   Workers will be instructed in the site induction to not attempt to catch or kill any wildlife on site as they may be listed as protected fauna by the
+   Department of Parks and Wildlife.
+   They will also be instructed of which types of animals are known to occasionally be found on site.
+
+HEAT AND RAIN
+-------------
+
+   Drinking water shall be made readily available at multiple locations (see hygiene).
+   Expected climate conditions shall be discussed at each pre-start meeting.
+   In case of extreme conditions (high temperatures, storms, etc.) discussion will take place on what tasks may be affected and whether work is to be
+   reorganised for a different time/day or designated, sheltered work area.
+   The final decision will be made by the Site Manager.
+
+   Given the time of year construction is scheduled to be performed, particular attention will be paid to the increased risk of slips & trips due to the
+   presence of heavy rain, dew, or wind
+
+   Sunscreen shall be made available at the Site Office.
+   Hard hat brims shall also be made available as a PPE issue.
+
+FATIGUE
+-------
+
+   Working long hours is sometimes a requirement of construction sites.
+   Fatigue is a recognised potential safety and health risk.
+   All employees are encouraged to report to their supervisor instances where they feel tiredness is impacting their ability to perform their work in a
+   safe manner.
+   Part of the pre-start meeting shall be an assessment on workers fitness for work.
+
+   No person shall be required to work more than 12 hours with appropriate breaks for lunch and two smaller breaks.
+   Under no circumstances is a person to work more than 12 hours without an 8-hour break and without the permission of the Site Manager.
+
+MANUAL HANDLING
+---------------
+
+   Anergy will ensure that manual handling hazards are identified and managed in accordance with the WA Code of Practice for Manual Handling.
+   Anergy shall encourage workers to report all manual handling hazards and ensure as far as practicable that mechanical aids are provided for manual
+   handling tasks.
+
+STORES AND LAYDOWN
+------------------
+
+   All delivery drivers are to report directly to the Site Office upon arrival and sign into the visitors register.
+   The Site Manager shall appoint either a space to lay down goods or organise the goods to be taken into the store.
+   Records of all deliveries made are to be kept.
+
+   No goods are to be removed from the site without prior consent of the Site Manager.
+   Missing equipment shall be reported to the site supervisor and an incident report completed.
+
+HYGIENE
+-------
+
+   Food substances are to be consumed in the designated area.
+   Food is not to be stored otherwise in areas of construction.
+   Cleanliness of facilities is a shared responsibility.
+   Whilst a cleaner is appointed to clean offices and mess areas on a regular basis, cleaning is expected to occur by users immediately after use.
+
+   Toilet facilities are provided.
+   If there is a problem or poor hygiene in any cubicle, the matter needs to be reported immediately to site manager.
+
+   Drinking water shall be provided at all times on site.
+
+   Personal drinking water bottles should be labelled with user’s names to avoid multiple users of the same bottle.
+
+WASTE
+-----
+
+   Waste bins are provided for industrial waste and general waste.
+   Industrial waste shall include any timber, metal or other such hardware used in the construction process.
+   General rubbish shall include plastics, paper and food waste.
+   Contractors who are required to provide removal services as part of their work must minimise or not use the industrial waste bin.
+   Bin and waste management shall be overseen by the Site Manager, who will check all bins at the end of each day.
+   Workers will be instructed to inform the Site Manager if the industrial waste bin is nearing full and they will contact the appropriate party to
+   remove the waste.
+
+PLANT AND EQUIPMENT
+-------------------
+
+   For each item of plant and equipment, either Anergy or a Contractor shall be responsible for the safety and maintenance of the item.
+   These responsibilities include:
+
+-  Registration of the plant or equipment item with the Site Manager prior to use on site.
+
+-  Inspection and maintenance in accordance with relevant standards and manufacturer’s recommendations.
+
+-  Documentation of this inspection and maintenance history and submitting this to the Site Manager for their records as well
+
+-  Appropriate training is provided to operators and records kept of this training
+
+-  Provision of a pre-start checklist and plant logbooks
+
+-  Reporting of faults to the Site Manager
+
+..
+
+   The above will be captured in a checklist provided by Anergy to the Contractor and confirms:
+
+-  Equipment details.
+
+-  Confirmation of recent service.
+
+-  Availability of logbook.
+
+-  Is safe and fit for purpose to operate; and
+
+-  Is signed off by supplier / operator / contractor.
+
+The Site Manager shall audit that these requirements are being maintained by the responsible party.
+
+OUT OF SERVICE PROCEDURE
+------------------------
+
+   Should any piece of equipment be damaged or defective it must be tagged using an “Out of Service” tag and reported to the Site Supervisor who shall be
+   responsible for registering the required action in the Safety Plan Action Register.
+   The tag must be placed in a way as far as is reasonably practicable that any workers that intend on using the out of service equipment cannot without
+   seeing the tag.
+
+   All soft barricades used on site shall require an information tag to inform personnel of the hazards barricaded.
+
+   Danger tags shall be used for any Isolation activities.
+   These tags must be accompanied by a personal danger padlock.
+   Personal danger padlocks must only be applied and removed by the
+
+   person who owns them.
+
+WORKING IN ISOLATION
+--------------------
+
+   During all construction works, positive 2-way communication must be maintained at all times.
+   No construction activity is to be undertaken with only one person on site.
+
+   Workers in the office are permitted to perform work outside of construction activities without continuous communication required.
+   Anergy shall ensure that they are checked at regular intervals throughout the time that they are on site.
+   A minimum of 2 checks per day is required as well as a check in and check out upon access and egress to the site.
+
+.. _working-in-isolation-1:
+
+WORKING IN ISOLATION
+--------------------
+
+.. _section-4:
+
+   COVID-19 Hazards and Risks are managed in accordance with Anergy, WWTE and WA – COVID-19 Safety Plan and Safety Guidelines and will be adjusted
+   whenever changes are announced by the Western Australian Government.
+
+   Reference to:
+
+-  | COVID Safety Plan Phase 4 (Printed) | https://www.wa.gov.au/government/document-collections/covid-19-coronavirus-covid-safety-plans-and-guidelines
+
+-  COVID Safety Guidelines Phase 4 (Printed)
+
+..
+
+   https://www.wa.gov.au/government/document-collections/covid-19-coronavirus-covid-safety-plans-and-guidelines
+
+-  Face masks (Printed)
+
+..
+
+   https://healthywa.wa.gov.au/Articles/A_E/Coronavirus/Face-masks
+
+.. |Hazelm007| image:: media\Hazelm007.png
+   :width: 0.56319in
+   :height: 0.52153in
+.. |Hazelm007| image:: media\Hazelm007.png
+   :width: 0.56319in
+   :height: 0.52153in
+.. |Hazelm007| image:: media\Hazelm007.png
+   :width: 0.56319in
+   :height: 0.52153in
+.. |Hazelm007| image:: media\Hazelm007.png
+   :width: 0.56319in
+   :height: 0.52153in
+.. |Hazelm008| image:: media\Hazelm008.png
+   :width: 3.46124in
+   :height: 3.4091in

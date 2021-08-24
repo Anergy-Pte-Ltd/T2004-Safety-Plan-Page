@@ -1,0 +1,8 @@
+.. vim: syntax=rst
+
+=========
+Hazelmere
+=========
+
+.. toctree::
+    Hazelmere - Anergy T1555-2-60 .rest
